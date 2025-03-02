@@ -1,6 +1,7 @@
 {
-  "Event_01": "Welcome to Duvall TV 🔥",
-  "Event_02": "Valley Vibes 2025",
-  "Event_03": "Powered by Forever System 🔥🔥",
-  "Event_04": "Duvall TV Coming Soon!"
+  "EVENT1": "Event One Text",
+  "EVENT2": "Event Two Text",
+  "EVENT3": "Three",
+  "EVENT4": "https://raw.githubusercontent.com/username/repo/main/image1.png",
+  "EVENT5": "https://raw.githubusercontent.com/username/repo/main/image2.png"
 }
